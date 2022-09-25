@@ -8,3 +8,4 @@
 - [1110 - 더하기 사이클](https://wny0320-coding.tistory.com/9)
 - [2562 - 최댓값](https://wny0320-coding.tistory.com/10)
 - [4344 - 평균은 넘겠지](https://wny0320-coding.tistory.com/11)
+- [1065 - 한수](https://wny0320-coding.tistory.com/12)
