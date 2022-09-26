@@ -9,3 +9,4 @@
 - [2562 - 최댓값](https://wny0320-coding.tistory.com/10)
 - [4344 - 평균은 넘겠지](https://wny0320-coding.tistory.com/11)
 - [1065 - 한수](https://wny0320-coding.tistory.com/12)
+- [2675 - 문자열 반복](https://wny0320-coding.tistory.com/13)
