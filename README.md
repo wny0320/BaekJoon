@@ -10,3 +10,4 @@
 - [4344 - 평균은 넘겠지](https://wny0320-coding.tistory.com/11)
 - [1065 - 한수](https://wny0320-coding.tistory.com/12)
 - [2675 - 문자열 반복](https://wny0320-coding.tistory.com/13)
+- [1152 - 문자열 단계](https://wny0320-coding.tistory.com/14)
