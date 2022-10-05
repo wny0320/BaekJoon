@@ -14,3 +14,4 @@
 - [5622 - 다이얼](https://wny0320-coding.tistory.com/15)
 - [2941 - 크로아티아 알파벳](https://wny0320-coding.tistory.com/16)
 - [1316 - 그룹 단어 제거](https://wny0320-coding.tistory.com/17)
+- [1712 - 손익분기점](https://wny0320-coding.tistory.com/18)
