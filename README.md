@@ -23,3 +23,4 @@
 - [10757 - 큰 수 A+B](https://wny0320-coding.tistory.com/24)
 - [1978 - 소수 찾기](https://wny0320-coding.tistory.com/25)
 - [2581 - 소수](https://wny0320-coding.tistory.com/26)
+- [11653 - 소인수 분해](https://wny0320-coding.tistory.com/27)
