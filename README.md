@@ -25,3 +25,4 @@
 - [2581 - 소수](https://wny0320-coding.tistory.com/26)
 - [11653 - 소인수 분해](https://wny0320-coding.tistory.com/27)
 - [1929 - 소수 구하기](https://wny0320-coding.tistory.com/28)
+- [4948 - 베르트랑 공준](https://wny0320-coding.tistory.com/29)
