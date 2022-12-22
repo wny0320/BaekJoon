@@ -27,3 +27,4 @@
 - [1929 - 소수 구하기](https://wny0320-coding.tistory.com/28)
 - [4948 - 베르트랑 공준](https://wny0320-coding.tistory.com/29)
 - [2738 - 행렬 덧셈](https://wny0320-coding.tistory.com/30)
+- [2566 - 최댓값](https://wny0320-coding.tistory.com/31)
