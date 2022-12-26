@@ -31,3 +31,4 @@
 - [2563 - 색종이](https://wny0320-coding.tistory.com/32)
 - [2750 - 수 정렬하기](https://wny0320-coding.tistory.com/33)
 - [2587 - 대표값2](https://wny0320-coding.tistory.com/34)
+- [25305 - 커트라인](https://wny0320-coding.tistory.com/35)
