@@ -36,3 +36,4 @@
 - [2751 - 수 정렬하기 2](https://wny0320-coding.tistory.com/36)
 
 # C++
+- [2525 - 오븐시계](https://wny0320-coding.tistory.com/41)
