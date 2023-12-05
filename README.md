@@ -34,6 +34,7 @@
 - [2587 - 대표값2](https://wny0320-coding.tistory.com/34)
 - [25305 - 커트라인](https://wny0320-coding.tistory.com/35)
 - [2751 - 수 정렬하기 2](https://wny0320-coding.tistory.com/36)
+- [9506 - 약수들의 합](https://wny0320-coding.tistory.com/46)
 
 # C++
 - [2525 - 오븐시계](https://wny0320-coding.tistory.com/41)
