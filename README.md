@@ -1,6 +1,6 @@
 # BaekJoon 
 <details>
-<summary># C#</summary>
+<summary>c#</summary>
 <div markdown="1">
 - [10869 - 사칙연산](https://wny0320-coding.tistory.com/2)
 - [2588 - 곱셈](https://wny0320-coding.tistory.com/4)
@@ -40,6 +40,9 @@
 </div>
 </details>
 
-
-# C++
+<details>
+<summary>C++</summary>
+<div markdown="1">
 - [2525 - 오븐시계](https://wny0320-coding.tistory.com/41)
+</div>
+</details>
