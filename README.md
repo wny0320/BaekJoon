@@ -38,7 +38,7 @@
 - [25305 - 커트라인](https://wny0320-coding.tistory.com/35)
 - [2751 - 수 정렬하기 2](https://wny0320-coding.tistory.com/36)
 - [9506 - 약수들의 합](https://wny0320-coding.tistory.com/46)
-- 
+- [24313 - 알고리즘 수업 - 점근적 표기1](https://wny0320-coding.tistory.com/47)
 </div>
 </details>
 
