@@ -42,6 +42,7 @@
 - [9012 - 괄호](https://wny0320-coding.tistory.com/65)
 - [1463 - 1로 만들기](https://wny0320-coding.tistory.com/66)
 - [11399 - ATM](https://wny0320-coding.tistory.com/67)
+- [1002 - 터렛](https://wny0320-coding.tistory.com/68)
 </div>
 </details>
 
