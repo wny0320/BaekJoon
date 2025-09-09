@@ -44,6 +44,8 @@
 - [11399 - ATM](https://wny0320-coding.tistory.com/67)
 - [1002 - 터렛](https://wny0320-coding.tistory.com/68)
 - [24479 - 알고리즘 수업 - 깊이 우선 탐색 1](https://wny0320-coding.tistory.com/69)
+- [4251 - Water Main Break, Fixed](https://wny0320-coding.tistory.com/70)
+- [31575 - 도시와 비트코인](https://wny0320-coding.tistory.com/71)
 </div>
 </details>
 
