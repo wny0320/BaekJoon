@@ -46,6 +46,7 @@
 - [24479 - 알고리즘 수업 - 깊이 우선 탐색 1](https://wny0320-coding.tistory.com/69)
 - [4251 - Water Main Break, Fixed](https://wny0320-coding.tistory.com/70)
 - [31575 - 도시와 비트코인](https://wny0320-coding.tistory.com/71)
+- [18352 - 특정 거리의 도시 찾기](https://wny0320-coding.tistory.com/73)
 </div>
 </details>
 
