@@ -47,6 +47,7 @@
 - [4251 - Water Main Break, Fixed](https://wny0320-coding.tistory.com/70)
 - [31575 - 도시와 비트코인](https://wny0320-coding.tistory.com/71)
 - [18352 - 특정 거리의 도시 찾기](https://wny0320-coding.tistory.com/73)
+- [11053 - 가장 긴 증가하는 부분 수열](https://wny0320-coding.tistory.com/75)
 </div>
 </details>
 
