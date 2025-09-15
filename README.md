@@ -49,6 +49,7 @@
 - [18352 - 특정 거리의 도시 찾기](https://wny0320-coding.tistory.com/73)
 - [11053 - 가장 긴 증가하는 부분 수열](https://wny0320-coding.tistory.com/75)
 - [11060 - 점프 점프](https://wny0320-coding.tistory.com/76)
+- [9519 - 졸려](https://wny0320-coding.tistory.com/77)
 </div>
 </details>
 
