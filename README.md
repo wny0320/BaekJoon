@@ -37,6 +37,7 @@
 - [2587 - 대표값2](https://wny0320-coding.tistory.com/34)
 - [25305 - 커트라인](https://wny0320-coding.tistory.com/35)
 - [2751 - 수 정렬하기 2](https://wny0320-coding.tistory.com/36)
+- [2525 - 오븐시계](https://wny0320-coding.tistory.com/41)
 - [9506 - 약수들의 합](https://wny0320-coding.tistory.com/46)
 - [24313 - 알고리즘 수업 - 점근적 표기1](https://wny0320-coding.tistory.com/47)
 - [9012 - 괄호](https://wny0320-coding.tistory.com/65)
@@ -50,13 +51,6 @@
 - [11053 - 가장 긴 증가하는 부분 수열](https://wny0320-coding.tistory.com/75)
 - [11060 - 점프 점프](https://wny0320-coding.tistory.com/76)
 - [9519 - 졸려](https://wny0320-coding.tistory.com/77)
-</div>
-</details>
-
-<details>
-<summary>C++</summary>
-<div markdown="1">
-  
-- [2525 - 오븐시계](https://wny0320-coding.tistory.com/41)
+- [15748 - Rest Stops](https://wny0320-coding.tistory.com/78)
 </div>
 </details>
