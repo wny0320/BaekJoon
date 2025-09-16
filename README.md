@@ -1,5 +1,4 @@
 # BaekJoon 
-<details>
 <div markdown="1">
 
 - [10869 - 사칙연산](https://wny0320-coding.tistory.com/2)
@@ -52,4 +51,3 @@
 - [9519 - 졸려](https://wny0320-coding.tistory.com/77)
 - [15748 - Rest Stops](https://wny0320-coding.tistory.com/78)
 </div>
-</details>
